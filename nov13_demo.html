@@ -1,0 +1,18 @@
+<script>
+
+let a = [10, 2, 3];
+
+let output = "";
+
+a.sort(comparer);
+
+function comparer(x, y) {
+  output = output + "Now comparing "+x+" and "+y+"\n";
+  if (x == y) return 0;
+  if (x > y) return -1;
+  if (x < y) return +1;
+}
+
+console.log(output);
+
+</script>
