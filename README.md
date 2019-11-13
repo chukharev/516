@@ -19,7 +19,7 @@
 - W9: [Small Project C: Learner Modeling](#small-project-c) (5%).
 - W10: [Chapter 9: Regular expressions.](https://eloquentjavascript.net/09_regexp.html)
 - W11: [Small Project D: Haigy Paigy](#small-project-d) (5%). **[Final project](final_project.md) proposals due on Friday**
-- W12: [Small Project E: Corpus Processing](#small-project-e) (5%).
+- W12: [Small Project E: Corpus Processing](#small-project-e) (5%); see [in-class demo code](https://github.com/chukharev/516/blob/master/nov13_demo.html)
 - W13: Oral exam - 25% - based strictly on Small Projects A-E. **[Final project](final_project.md) paper drafts due on Friday**
 - W14: [Chapter 13: JavaScript and the Browser.](https://eloquentjavascript.net/13_browser.html)
 - W15: Final Project Presentations (Final project worth 30%).
