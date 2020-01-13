@@ -1,7 +1,5 @@
 # Week 3 Homework Assignments
 
-By September 11, please complete the following assignment:
-
 For each of the JavaScript commands below, first think what the computer will output in the console,
 and then verify your answer by executing the command in your browser's console.
 
