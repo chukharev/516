@@ -4,8 +4,6 @@
 
 **Textbook (required):** [Eloquent Javascript, 3rd edition](https://eloquentjavascript.net/) by Marijn Haverbeke. There is a free online version and a [paperback](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/) for $25.
 
-**Meeting:** MW 9:30-10:50 @ ROSS 312
-
 ## Tentative Schedule
 
 - W1: [Introduction](https://eloquentjavascript.net/00_intro.html). Foundations of information theory. Numeral systems. [Slides](week1_slides.pptx); [Homework assignments](week1.md)
