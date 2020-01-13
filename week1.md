@@ -1,7 +1,5 @@
 # Week 1 Homework Assignments
 
-By September 4, please do all of the following:
-
 ## A. Prepare answers to the following questions:
 
 1. How many bits of information does a four-digit decimal integer (a whole number in the range between 0000 and 9999, inclusive) contain?
@@ -38,4 +36,3 @@ By September 4, please do all of the following:
 
 5. Alice and Bob are playing the 20-question game. Alice thinks of a natural number from a predefined range, and Bob tries to guess it by asking Alice yes/no questions. What largest predefined range of possible numbers would guarantee that Bob will win the game (using the best-available strategy) regardless of which particular number from the range Alice selects? (<i>Answer: 1 ... 2<sup>20</sup></i>)
 
-**We will schedule review sessions for those who have difficulties understanding these problems and/or who want to go over them again. Please stand by for further announcements.**
