@@ -6,6 +6,7 @@
 
 ## Tentative Schedule
 
+<!--
 - W1: [Introduction](https://eloquentjavascript.net/00_intro.html). Foundations of information theory. Numeral systems. [Slides](week1_slides.pptx); [Homework assignments](week1.md)
 - W2: Representing information in the computer: logic, numbers, colors, text. [Slides](week2_slides.pptx)
 - W3: Representing information in the computer (continued); [Chapter 1: Values, types, and operators.](https://eloquentjavascript.net/01_values.html) [Slides](week3_slides.pptx); [Homework assignments](week3.md)
@@ -22,6 +23,9 @@
 - W14: [Chapter 13: JavaScript and the Browser.](https://eloquentjavascript.net/13_browser.html)
 - W15: Final Project Presentations (Final project worth 30%).
 - Finals week: Written final exam (worth 20%). **[Final project](final_project.md) papers and programs due on Friday**
+-->
+
+**See [modified schedule for online instruction](covid.md).**
 
 ## Course Assessment Plan
 
