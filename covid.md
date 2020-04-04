@@ -5,6 +5,7 @@
 - W10: [Modeling of a viral infection](#week-10). Small Project C is due by end of day on Wednesday 3/25.
 - W11: [Chapter 9: Regular expressions.](https://eloquentjavascript.net/09_regexp.html)
 - - [Recording 2020-03-30](https://iastate.webex.com/webappng/sites/iastate/recording/play/b9093fc99b274adb95106b53f2b51bf1)
+- - [Recording 2020-04-01](https://iastate.webex.com/webappng/sites/iastate/recording/play/3ec929daf054474aa6f57191b21d690c)
 - W12: [Small Project D: Haigy Paigy](README.md#small-project-d)
 - W13: [Small Project E: Corpus Processing](README.md#small-project-e)
 - W14-W15: Oral exam - based strictly on Small Projects A-E (by individual appointments).
