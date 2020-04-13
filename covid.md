@@ -8,6 +8,7 @@
 - - [Recording 2020-04-01](https://iastate.webex.com/webappng/sites/iastate/recording/3ec929daf054474aa6f57191b21d690c)
 - W12: [Small Project D: Haigy Paigy](README.md#small-project-d)
 - - [Recording 2020-04-06](https://iastate.webex.com/webappng/sites/iastate/recording/4cce08ce1e414b5db559d4523bebe788)
+- - [Recording 2020-04-08](https://iastate.webex.com/webappng/sites/iastate/recording/2e2376e60b4842ec94ed4cf7efaad348)
 - W13: [Small Project E: Corpus Processing](README.md#small-project-e)
 - W14-W15: Oral exam - based strictly on Small Projects A-E (by individual appointments).
 
