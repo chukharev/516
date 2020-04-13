@@ -1,0 +1,12 @@
+const fs = require("fs");
+
+let rawData = fs.readFileSync("chris.txt", "utf8");
+
+let arrayOfRows = rawData.split(/[\r\n]+/);
+
+for (let row of arrayOfRows) {
+  let [directorate, subdirectorate, section, id, text] = row.split("\t");
+  fs.writeFileSync("output/" + directorate + "_" + subdirectorate + "_" + section + "_" + id + ".txt", text);
+}
+
+
