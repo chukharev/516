@@ -12,7 +12,8 @@
 - W13: [Small Project E: Corpus Processing](README.md#small-project-e)
 - - [Recording 2020-04-13](https://iastate.webex.com/webappng/sites/iastate/recording/play/3d73cda58b2e4bfc9c972f5f54e13dac)
 - - [Excel file](NSF_EHR_ABS_Master.xlsx), [script file](chris_js.txt)
-- W14-W15: Oral exam - based strictly on Small Projects A-E (by individual appointments).
+- W14-W15: TBD / Oral exam - based strictly on Small Projects A-E (by individual appointments).
+- - [Recording 2020-04-20](https://iastate.webex.com/webappng/sites/iastate/recording/play/c49ea238c3c54a23b86194e7bc343bc1)
 
 Final written exam and final project are canceled.
 
