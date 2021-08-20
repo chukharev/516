@@ -6,7 +6,7 @@
 
 ## Tentative Schedule
 
-- Week 1: Intoroduction
+- Week 1: Introduction
 - Weeks 2-4: Language Processing and Python
 - Weeks 5-7: Accessing Text Corpora and Lexical Resources
 - Weeks 8-10: Processing Raw Text
