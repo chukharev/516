@@ -18,7 +18,7 @@
 - Readings: Book 1:5; Book 1:1.1-1.2
 - Lecture: Information in language; Natural Language Processing
 - Lab: Installing the environment; Using Python as a calculator; Introduction to git and GitHub
-- Homework: Ex. 1, 2
+- Homework: Ex. 1, 2; [Set up GitHub](setup_github.md)
 
 ### Week 2: Language Processing and Python
 
