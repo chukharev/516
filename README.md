@@ -22,7 +22,7 @@
 
 ### Week 2: Language Processing and Python
 
-- Readings: Book 2:1.3-1.4
+- Readings: Book 1:1.3-1.4
 - Lecture: Corpus Linguistics, Concordances/KWIC, Contexts, N-Grams, Tokens, Types, Lexical Diversity
 - Lab: Computing with langauge
 - Homework: Ex. 4, 5, 6, 7, 8
@@ -40,6 +40,27 @@
 - Lecture: Frequency distributions; Conditionals and Loops
 - Lab: Python programming
 - Homework: Ex. 15, 16, 17, 18, 19, 20, 21, 22
+
+### Week 5: Accessing Text Corpora and Lexical Resources
+
+- Readings: Book 2:1, 2:2
+- Lecture: Overview of corpora included with NLTK
+- Lab: Conditional frequency distributions
+- Homework: TBD
+
+### Week 6
+
+- Readings: Book 2:3, 2:4
+- Lecture: Lexical Resources
+- Lab: Python programming; Functions and Modules
+- Homework: TBD
+
+### Week 7
+
+- Readings: Book 2:5
+- Lecture: Computational Semantics
+- Lab: WordNet
+- Homework: TBD
 
 ## Course Assessment Plan
 
@@ -67,8 +88,25 @@ Please be aware that regular class attendance and active participation is a stro
 ## Assignment Sheets
 
 ### Small Project 1
-- Ex. 24, 25
-- More information forthcoming
+
+Chapter 1, Ex. 24, 25
+
+Put the code for both exercises into a single Python file named **project1.py** and upload this file to your GitHub repository for feedback and grading. Add comments to each meaningful section of the program explaining your approach.
+
+Grading (10 points total)
+- Your program is syntactically correct: 3 points.
+- Your program produces the correct output: 5 points.
+- Your program is optimally written: 2 points.
+
+Deadline:
+- Submissions are expected by October, 1.
+- There will be no penalty for late submissions.
+
+### Small Project 2
+
+Chapter 2, Ex. 18, 19
+
+More information is forthcoming.
 
 ### General Notes
 
