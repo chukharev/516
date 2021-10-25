@@ -62,6 +62,11 @@
 - Lab: WordNet
 - Homework: TBD
 
+### Weeks 8-10 Processing raw text
+
+- Readings: Book Chapter 3
+- Regular expressions
+
 ## Course Assessment Plan
 
 - Participation: 20%
