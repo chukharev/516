@@ -104,14 +104,40 @@ Grading (10 points total)
 - Your program is optimally written: 2 points.
 
 Deadline:
-- Submissions are expected by October, 1.
+- Submissions are expected by October 1.
 - There will be no penalty for late submissions.
 
 ### Small Project 2
 
 Chapter 2, Ex. 18, 19
 
-More information is forthcoming.
+Put the code for both exercises into a single Python file named **project2.py** and upload this file to your GitHub repository for feedback and grading. Add comments to each meaningful section of the program explaining your approach.
+
+Grading (10 points total)
+- Your program is syntactically correct: 3 points.
+- Your program produces the correct output: 5 points.
+- Your program is optimally written: 2 points.
+
+Deadline:
+- Submissions are expected by November 12.
+- There will be no penalty for late submissions.
+
+### Small Project 3
+
+Write a script in Python that converts British spelling of a text to the American spelling using at least two generalizable replacement patterns. "Generalizable" means applicable to more than one lexeme. For example, replacing "fireman" with "firefighter" is not generalizable, but replacing "theatre" with "theater" is. Your script should read an input text file and write an output text file. The names of the input and output files may be hard-coded in the script.
+
+Grading (10 points total)
+- Your program is syntactically correct: 3 points.
+- Your program produces the correct output: 5 points.
+- Your program is optimally written: 2 points.
+
+Deadline:
+- Submissions are expected by December 3.
+- There will be no penalty for late submissions.
+
+### Small Project 4
+
+Group projects as discussed in class.
 
 ### General Notes
 
