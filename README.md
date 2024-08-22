@@ -2,7 +2,7 @@
 
 **Catalog description:** Data and knowledge structures for formal representation of natural language and speech data. Designing and implementing algorithms for automating linguistic analysis tasks. Conceptual issues for natural language and speech processing programming.
 
-**Course Materials:** The Python Workbook by Ben Stephenson, freely available from the publisher here (log in through ISU library is required to gain free access to the book): https://link.springer.com/book/10.1007/978-3-030-18873-3
+**Course Materials:** The Python Workbook by Ben Stephenson, freely available from the publisher here (log in through ISU library is required to gain free access to the book): [https://link.springer.com/book/10.1007/978-3-030-18873-3](https://link.springer.com/book/10.1007/978-3-030-18873-3)
 
 **Learning Objectives:**
 
