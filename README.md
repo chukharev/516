@@ -75,7 +75,7 @@ For this assignment, you will develop a program that generates the expected inde
 
 **Sample output:** `an apple`
 
-# Project 3: Repetion
+# Project 3: Repetition
 
 A common statistical measure of central tendency is the trimmed mean, which is similar to the mean (average) of the sample values, but is calculated after certain parts of the sample at the high and low end are discarded. The idea behind calculating the trimmed mean is that removing outliers may improve the usefulness of the statistical measure.
 
