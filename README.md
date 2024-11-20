@@ -200,3 +200,4 @@ blank. The output file must be named `ratings.csv` and placed in the `data` fold
 files. Note that your program will need to determine the list of text IDs and rater names automatically 
 from the input text files that are provided. 
 
+[Download the data folder](data.zip)
